@@ -1,1 +1,11 @@
 *{box-sizing: border-box;}
+
+body{ margin: 0 auto; }
+.container{
+ /*  display: flex;
+    flex-direction: row;*/
+
+    max-width: 1440px;
+    min-height: 720px;
+    
+}
