@@ -162,6 +162,215 @@ nav{
         font-size: 14px;
       }
 
+      .container2{
+        display: flex;
+        max-width:1440px ;
+        min-height: 1006px;
+       margin: 0 auto;
+        background-color: #d4b2b2;
+    }
+    .main2{
+        display: flex;
+        flex-direction: column;
+        margin-top: 120px;
+        margin-left: 165px;
+        margin-bottom: 589px;
+        
+    }
+    .letschat{
+        color: #3c3f40;
+        width: 80px;
+        height: 21px;
+        display: flex;
+        font-size: 13px;
+        line-height: 21px;
+    }
+    .h4-one{
+       display: flex;
+       margin-top: 16px;
+        width: 306px;
+        height: 260px;
+        font-size: 54px;
+        line-height: 65px;
+        font-family: sans-serif;
+        color: #3c3f40;
+        font-weight: 400;
+    }
+    .main3{
+        display: flex;
+        flex-direction: column;
+        margin-top: 120px;
+        margin-left: 264px;
+        margin-bottom: 52px;
+        margin-right: 174px;
+    }
+    .first-p{
+        display: flex;
+        flex-direction: column;
+        font-family: sans-serif; 
+    }
+    .h5support{
+    display: flex;
+    color: #3c3f40;
+    font-size: 42px;
+    line-height: 54px;
+    font-weight: 400;
+    margin-bottom: 0;
+    margin-top: 0;
+    }
+    .texth5{
+        display: flex;
+        margin-top: 19px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .checktext{
+        display: flex;
+        color: #ff3465;
+        font-size: 20px;
+        line-height: 36px;
+        position: absolute;
+        margin-top: 0;
+        margin-bottom: 0;
+        padding-top: 98px;
+    }
+    .texth53{
+        display: flex;
+        font-size: 20px;
+        line-height: 30px; 
+       /*margin-top: 0;
+        margin-bottom: 0;*/
+    }
+    .texth532{
+        display: flex;
+        position: absolute;
+        font-size: 20px;
+        line-height: 30px; 
+       margin-top: 170px;
+        margin-bottom: 0;
+    }
+    .texth533{
+        display: flex;
+        position: absolute;
+        font-size: 20px;
+        line-height: 30px; 
+       margin-top: 170px;
+       margin-left: 350px;
+       color: red;
+        margin-bottom: 0;
+    }
+    .secondp{
+        display: flex;
+        flex-direction: column;
+        font-family: sans-serif;
+        color: #3c3f40; 
+    }
+    .h6sales{
+        display: flex;
+        font-size: 42px;
+        line-height: 54px;
+        line-height: 30px;
+        font-weight: 400;
+        margin-top: 77px;
+        margin-bottom: 0;
+    }
+    .h6text{
+        margin-top: 19px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .sales{
+        color: #ff3465;
+        position: absolute;
+        padding-left: 190px;
+        text-decoration: none;
+    }
+    
+    .thirdp{
+        display: flex;
+        flex-direction: column;
+        font-family: sans-serif;
+        color: #3c3f40;
+    }
+    .hsix{
+        display: flex;
+        font-size: 42px;
+        line-height: 54px;
+        line-height: 30px;
+        font-weight: 400;
+        margin-top: 77px;
+        margin-bottom: 0;
+    }
+    
+    .h62text{
+        margin-top: 19px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .h6link{
+        display: flex;
+        position: absolute;
+       margin-top: 195px;
+        margin-left: 75px;
+        margin-bottom: 0;
+        text-decoration: none;
+        color: #ff3465;
+    }
+    .fourth{
+        display: flex;
+        flex-direction: column;
+        font-family: sans-serif;
+        color: #3c3f40;
+    }
+    
+    .h2general{
+        display: flex;
+        font-size: 42px;
+        line-height: 54px;
+        line-height: 30px;
+        font-weight: 400;
+        margin-top: 77px;
+        margin-bottom: 0;
+    }
+    
+    .pgeneral{
+        margin-top: 19px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .linkgeneral{
+        display: flex;
+        margin-bottom: 0;
+        margin-top: 0;
+        text-decoration: none;
+        color: #ff3465;
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
