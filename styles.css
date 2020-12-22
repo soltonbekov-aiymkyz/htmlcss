@@ -358,15 +358,14 @@ nav{
   background-color: #ffffff;
 }
 
-
-
-
-
-
-
-
-
-
+.main4{
+  display: flex;
+  width:1440px ;
+  height:600px;
+ margin: 0 auto;
+  background-color: #ffffff;  
+  margin-top: 120px;
+}
 
 
 
