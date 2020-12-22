@@ -322,7 +322,6 @@ nav{
         font-family: sans-serif;
         color: #3c3f40;
     }
-    
     .h2general{
         display: flex;
         font-size: 42px;
@@ -332,7 +331,6 @@ nav{
         margin-top: 77px;
         margin-bottom: 0;
     }
-    
     .pgeneral{
         margin-top: 19px;
         font-size: 20px;
@@ -348,6 +346,17 @@ nav{
     
 
 
+
+
+
+    
+.container3{
+  display: flex;
+  max-width:1440px ;
+  min-height:840px;
+ margin: 0 auto;
+  background-color: #ffffff;
+}
 
 
 
