@@ -1,0 +1,1 @@
+# soltonbekov-aiymkyz.github.io
