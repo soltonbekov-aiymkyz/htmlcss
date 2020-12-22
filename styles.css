@@ -54,8 +54,6 @@ nav{
       line-height: 50px;
       text-decoration: none;
       }
-
-      
       .tryfree{
         position: absolute;
         width: 116px;
@@ -67,7 +65,6 @@ nav{
         left: 884px;
         top: 30px;
       }
-      
       .loginn{
         display: flex;
         align-items: center;
@@ -78,4 +75,9 @@ nav{
         margin-left: 1050px;
         text-decoration: none;
         font-family: sans-serif;
+      }
+      
+      .picture{
+        display: flex;
+        flex-direction: row;
       }
