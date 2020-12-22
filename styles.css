@@ -2,10 +2,23 @@
 
 body{ margin: 0 auto; }
 .container{
- /*  display: flex;
-    flex-direction: row;*/
-
+  display: flex;
+    flex-direction: row;
     max-width: 1440px;
     min-height: 720px;
     margin: 0 auto;
+}
+
+
+
+nav{
+    width: 1200px;
+  height: 100px;
+  left:180px;
+  background-color: #ffffff;
+   position: absolute;
+  display: flex;
+  align-items: center;
+  margin-top: 0 ;
+  margin-bottom: 0;
 }
