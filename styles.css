@@ -8,9 +8,6 @@ body{ margin: 0 auto; }
     min-height: 720px;
     margin: 0 auto;
 }
-
-
-
 nav{
     width: 1200px;
   height: 100px;
@@ -22,3 +19,11 @@ nav{
   margin-top: 0 ;
   margin-bottom: 0;
 }
+.h1first{
+    display: flex;
+    align-items: center;
+    margin-left: 45px;
+    margin-top: 0 ;
+    margin-bottom: 0;
+    color: red;
+  }
