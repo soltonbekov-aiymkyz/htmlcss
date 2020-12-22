@@ -466,8 +466,36 @@ margin-top: 173px;
 
 
 
+.container4p{
+  width:392px ;
+  height:342px;
+  background-color: #56468f;  
+  margin-top: 129px;  
+  margin-left: 165px;
+  color: #ffffff;
+}
 
-
+.goodbay{
+  display: flex;
+  width: 144px;
+  height: 21px;
+  top: 0px;
+  font-size: 13px;
+  line-height: 21px;
+  font-family: sans-serif;
+}
+.hello-copper{
+  display: flex;
+  width: 402px;
+  height: 65px;
+  left: 165px;
+  margin-top: 16px;
+  margin-bottom: 0;
+  font-size: 54px;
+  line-height: 65px;
+  font-family: sans-serif;
+  font-weight: 400;
+}
 
 
 
