@@ -456,14 +456,13 @@ margin-top: 173px;
   font-family: sans-serif;
 }
 
-
-
-
-
-
-
-
-
+.container4{
+  display: flex;
+  max-width:1440px ;
+  min-height:600px;
+ margin: 0 auto;
+  background-color: #56468f;
+}
 
 
 
