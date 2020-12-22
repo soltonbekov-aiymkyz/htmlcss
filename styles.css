@@ -76,8 +76,20 @@ nav{
         text-decoration: none;
         font-family: sans-serif;
       }
-      
       .picture{
         display: flex;
         flex-direction: row;
+      }
+
+      
+      .firstpicture{
+        width: 720px;
+        height: 720px;
+        background-color: #321e41;
+      }
+      .secondpicture{
+        width: 720px;
+        height: 720px;
+        left: 720px;
+        background-color: lightblue;
       }
