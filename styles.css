@@ -93,3 +93,13 @@ nav{
         left: 720px;
         background-color: lightblue;
       }
+
+      
+      .block{
+        display: flex;
+       flex-direction: column;
+        width: 529px;
+        height: 292px;
+        margin-top: 254px;
+        margin-left: 165px;
+      }
