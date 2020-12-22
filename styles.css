@@ -54,3 +54,28 @@ nav{
       line-height: 50px;
       text-decoration: none;
       }
+
+      
+      .tryfree{
+        position: absolute;
+        width: 116px;
+        height: 40px;
+        border-radius: 100px;
+        background-color: #ff3465;
+        border: 1px solid #ff3465;
+        color: #ffffff;
+        left: 884px;
+        top: 30px;
+      }
+      
+      .loginn{
+        display: flex;
+        align-items: center;
+        position: absolute;
+        width: 39px;
+        height: 20px;
+        color: red;
+        margin-left: 1050px;
+        text-decoration: none;
+        font-family: sans-serif;
+      }
