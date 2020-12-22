@@ -343,13 +343,7 @@ nav{
         text-decoration: none;
         color: #ff3465;
     }
-    
 
-
-
-
-
-    
 .container3{
   display: flex;
   max-width:1440px ;
@@ -368,7 +362,15 @@ nav{
 }
 
 
-
+.container3p{
+  display: flex;
+  width:291px ;
+  height:254px;
+  background-color: #ffffff;  
+  margin-top: 120px;  
+  margin-left: 180px;
+  color: #3c3f40;
+}
 
 
 
