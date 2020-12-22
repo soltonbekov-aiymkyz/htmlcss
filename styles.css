@@ -27,7 +27,6 @@ nav{
     margin-bottom: 0;
     color: red;
   }
-  
   .h2copper{
     display: flex;
     align-items: center;
@@ -35,3 +34,12 @@ nav{
     margin-top: 0 ;
     margin-bottom: 0;
  }
+
+ 
+ .ul-nav{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-top: 0 ;
+    margin-bottom: 0;
+    margin-left: 105px;}
