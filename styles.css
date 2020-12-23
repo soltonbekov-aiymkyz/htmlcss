@@ -71,7 +71,7 @@ nav{
         position: absolute;
         width: 39px;
         height: 20px;
-        color: red;
+        color: #ff3465;
         margin-left: 1050px;
         text-decoration: none;
         font-family: sans-serif;
@@ -343,7 +343,6 @@ nav{
         text-decoration: none;
         color: #ff3465;
     }
-
 .container3{
   display: flex;
   max-width:1440px ;
