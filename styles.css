@@ -544,6 +544,42 @@ margin-top: 173px;
 
 
 
+footer{
+  display: flex;
+  flex-direction: row;
+  max-width:1440px ;
+  min-height:550px;
+ margin: 0 auto;
+  background-color: #321e41;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       @media (max-width:800px){
         
       }
