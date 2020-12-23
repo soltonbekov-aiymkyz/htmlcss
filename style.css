@@ -667,23 +667,6 @@ a{
   font-weight: 400;
   font-family: sans-serif;
 }
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media  ( max-width:800px){
   .picture{
       display:flex;
@@ -728,7 +711,18 @@ a{
               flex-wrap:wrap;
               margin: 0 auto;
           }
+          
+         .main4{
+          display: flex;
+          flex-direction: column;
+         }
+          .container3p{
+            display: flex;
+            flex-direction: column;
+            margin: 0;
           }
+        }
+
 
      @media  ( max-width:800px){
               .container3p{
