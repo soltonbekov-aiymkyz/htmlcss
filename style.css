@@ -477,91 +477,7 @@ margin-top: 173px;
   font-size: 14px;
    line-height: 14px;
 }
-@media  ( max-width:800px){
-  .container4{
-      display:flex;
-      flex-direction:column;
-      flex-wrap:wrap;
-      margin:0;
-  }
-  .container4p{
-      width:392px ;
-      height:342px;
-      background-color: #56468f;  
-      margin-top: 129px;  
-      margin-left: 0;
-      color: #ffffff;
-  }
-  .goodbay{
-      font-size: 10px;
-      line-height: 19px;
-      font-family: sans-serif;
-  }
-  .hello-copper{
-      font-size: 44px;
-      line-height: 55px;
-      font-family: sans-serif;
-      font-weight: 400;
-  }
-  .psection4{
-      font-size: 15px;
-      line-height: 25px;
-      font-family: sans-serif;
-      font-weight: 400;
-  }
-  }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  /*
 footer{
   display: flex;
   flex-direction: row;
@@ -571,12 +487,9 @@ footer{
   background-color: #321e41;
 }
 .container5p{
-/*  width:143px ;
-  height:246px;*/
   background-color: #321e41;  
   margin-top: 90px;  
   margin-left: 165px;
-/*  margin-bottom: 182px;*/
   color: #ffffff;
 }
 .footer-h2{
@@ -624,8 +537,6 @@ a{
   line-height: 26px;
 }
 .container6p{
- /* width:143px ;
-  height:246px;*/
   background-color: #321e41;  
   margin-top: 95px;  
   margin-left: 42px;
@@ -638,8 +549,6 @@ a{
   font-family: sans-serif;
 }
 .container7p{
-/*  width:143px ;
-  height:246px;*/
   background-color: #321e41;  
   margin-top: 95px;  
   margin-left: 42px;
@@ -651,10 +560,7 @@ a{
   font-weight: 400;
   font-family: sans-serif;
 }
-
 .container8p{
- /* width:143px ;
-  height:246px;*/
   background-color: #321e41;  
   margin-top: 95px;  
   margin-left: 42px;
@@ -666,8 +572,6 @@ a{
   font-weight: 400;
   font-family: sans-serif;
 }
-
-
 .container9p{
   width:143px ;
   height:246px;
@@ -694,7 +598,6 @@ a{
   font-weight: 400;
   font-family: sans-serif;
 }
-
 @media  ( max-width:800px){
   footer{
       display:flex;
@@ -703,6 +606,7 @@ a{
       margin: 0  ;
   }
   }
+*/
 
 
 
@@ -713,51 +617,53 @@ a{
 
 
 
+footer{
+  display: flex;
+  flex-direction: row;
+  max-width:1440px ;
+  min-height:550px;
+ margin: 0 auto;
+  background-color: #321e41;
+}
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+@media  ( max-width:800px){
+  .container4{
+      display:flex;
+      flex-direction:column;
+      flex-wrap:wrap;
+      margin:0;
+  }
+  .container4p{
+      width:392px ;
+      height:342px;
+      background-color: #56468f;  
+      margin-top: 129px;  
+      margin-left: 0;
+      color: #ffffff;
+  }
+  .goodbay{
+      font-size: 10px;
+      line-height: 19px;
+      font-family: sans-serif;
+  }
+  .hello-copper{
+      font-size: 44px;
+      line-height: 55px;
+      font-family: sans-serif;
+      font-weight: 400;
+  }
+  .psection4{
+      font-size: 15px;
+      line-height: 25px;
+      font-family: sans-serif;
+      font-weight: 400;
+  }
+  }
 @media  ( max-width:800px){
   .container3{
       display: flex;
