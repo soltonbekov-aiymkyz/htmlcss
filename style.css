@@ -180,55 +180,14 @@ li{
     margin-left: 165px;
     margin-bottom: 589px;  
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.letschat{
+  color: #3c3f40;
+  width: 80px;
+  height: 21px;
+  display: flex;
+  font-size: 13px;
+  line-height: 21px;
+}
 
 
 
