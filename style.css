@@ -680,18 +680,10 @@ footer{
       font-weight: 400;
       font-family: sans-serif;
     }
+    .container7p{  margin: 0; }
 
 
-
-
-
-
-
-    .container7p{
-      margin: 0;
-      
-  
-
+   
 
 
 
@@ -704,6 +696,37 @@ footer{
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
 @media  ( max-width:800px){
   .container4{
       display:flex;
