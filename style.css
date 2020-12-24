@@ -628,49 +628,18 @@ footer{
   width:1200px ;
   color: #ffffff;
   }
-
-
-
-  
   .footer-h2{
     font-weight: bold;
     font-size: 30px;
     line-height: 26px;
   }
+  .footer-ul-one{
+    list-style: none;
+    padding: 0;}
+  a{ 
+     color: #ffffff;
+    text-decoration: none;}
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
