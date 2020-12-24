@@ -431,6 +431,25 @@ margin-top: 173px;
   line-height: 21px;
   font-family: sans-serif;
 }
+.hello-copper{
+  display: flex;
+  width: 402px;
+  height: 65px;
+  left: 165px;
+  margin-top: 16px;
+  margin-bottom: 0;
+  font-size: 54px;
+  line-height: 65px;
+  font-family: sans-serif;
+  font-weight: 400;
+}
+
+
+
+
+
+
+
 
 
 footer{
