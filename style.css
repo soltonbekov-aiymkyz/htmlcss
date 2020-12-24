@@ -34,7 +34,9 @@ nav h2{
   align-items: center;
 margin-top: 0 ;
   margin-bottom: 0;
-  margin-left:  120px;
+
+ margin-left:  100px;
+ 
 padding: 0 ;}
 li{
   display: flex;
@@ -505,34 +507,42 @@ footer{
     .li-footer{
       font-size: 16px;
       line-height: 26px;
+      margin: 0;
     }
     .li-footer2{
       font-size: 12px;
       line-height: 26px;
+      margin: 0;
     }
     .li-footer3{
       font-size: 13px;
       line-height: 26px;
+      margin: 0;
     }
     .li-footer4{
       font-size: 12px;
       line-height: 26px;
+      margin: 0;
     }
     .li-footer5{
       font-size: 12px;
       line-height: 26px;
+      margin: 0;
     }
     .li-footer6{
       font-size: 13px;
       line-height: 26px;
+      margin: 0;
     }
     .li-footer7{
       font-size: 12px;
       line-height: 26px;
+      margin: 0;
     }
     .li-footer8{
       font-size: 13px;
       line-height: 26px;
+      margin: 0;
     }
     .container6p{
       margin: 0;
@@ -810,7 +820,11 @@ footer{
     width: 680px;
     background-color: #321e41;
     }
-
+    .secondpicture{
+      width: 680px;
+       margin-left: 0;
+      background-color: lightblue;
+      }
     .block{
       display: flex;
       flex-direction: column;
@@ -822,54 +836,33 @@ footer{
       nav{
         width: 680px;
       height: 150px;
-      margin-left:0;
-      background-color: #ffffff;
-       position: absolute;
+     /*  position: absolute;*/
       display: flex;
       flex-direction: column;
       align-items: center;
-      margin-top: 0 ;
-      margin-bottom: 0;
+    margin: 0;
   }
   nav h2{
        display: flex;
        align-items: center;
-       margin-left: 0;
-       margin-top: 0 ;
-       margin-bottom: 0;
+     margin: 0;
   }
   nav ul {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    list-style: none;
-    align-items: center;
   margin-top: 0 ;
     margin-bottom: 0;
-    margin-left:  120px;
+    margin-left:  0;
   padding: 0 ;}
 li{
   display: flex;
   flex-direction: column;
   margin-left: 20px;
 }
-nav a{
-  color: #3c3f40;
-  font-size: 14px;
-  font-weight: 400;
-  font-family:sans-serif ;
-line-height: 50px;
-text-decoration: none;
-}
 .tryfree{
 display: flex;
 flex-direction: row;
-  width: 116px;
-  height: 40px;
-  border-radius: 100px;
-  background-color: #ff3465;
-  border: 1px solid #ff3465;
-  color: #ffffff;
   justify-content: center;
   margin: 0 auto;
 } 
@@ -877,39 +870,6 @@ flex-direction: row;
 .loginn{
   display: flex;
   align-items: center;
-  width: 39px;
-  height: 20px;
-  color: red;
   margin-left: 20px;
-  text-decoration: none;
-  font-family: sans-serif;
 }
-
-  }
-
-
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+}
