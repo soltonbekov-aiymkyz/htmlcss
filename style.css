@@ -29,3 +29,14 @@ nav h2{
   margin-top: 0 ;
   margin-bottom: 0;
  }
+ 
+ nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style: none;
+  align-items: center;
+margin-top: 0 ;
+  margin-bottom: 0;
+  margin-left:  120px;
+padding: 0 ;}
