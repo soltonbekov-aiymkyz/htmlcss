@@ -415,6 +415,128 @@ margin-top: 173px;
   font-family: sans-serif;
 }
 
+@media  ( max-width:800px){
+  .container3{
+      display: flex;
+      max-width:800px ;
+      min-height:840px;
+     margin: 0 auto;
+      background-color: #ffffff;
+  }
+  .container3p{
+      display: flex;
+      width:291px ;
+      background-color: #ffffff;  
+     margin-top: 240px;  
+      margin-left: auto;
+      margin-right: auto;
+      color: #3c3f40;
+  }
+  .ouroffice{
+      position: absolute;
+      display: flex;
+      flex-direction: row;
+      margin-top: 0;
+      font-size: 13px;
+      line-height: 21px;
+      font-family:   'Roboto Mono', monospace;
+      margin-bottom: 0;
+  }
+  .copperhq{
+      position: absolute;
+      display: flex;
+      width: 291px;
+      height: 65px;
+      margin-top: 32px;
+      margin-bottom: 0;
+      font-size: 54px;
+      line-height: 65px;
+     font-weight: 400;
+      font-family: sans-serif; 
+  }
+  .t{
+      display: flex;
+      position: absolute;
+      width: 143px;
+      height: 30px;
+      margin-top: 97px;
+      font-size: 19px;
+      line-height: 30px;
+      font-family: sans-serif; 
+  }
+  .einfo{
+      display: flex;
+      position: absolute;
+      width: 190px;
+      height: 30px;
+      margin-top: 127px;
+      font-size: 20px;
+      line-height: 30px;
+      font-family: sans-serif; 
+  
+  }
+  .h301{
+      display: flex;
+      position: absolute;
+      width: 200px;
+      height: 30px;
+  margin-top: 173px;
+      font-size: 20px;
+      line-height: 30px;
+      font-weight: 400px;
+      font-family: sans-serif;
+  }
+  .san{display: flex;
+      position: absolute;
+      width: 234px;
+      height: 30px;
+     margin-top:203px ; 
+      font-size: 20px;
+      line-height: 30px;
+      font-family: sans-serif;
+  }
+  }
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
