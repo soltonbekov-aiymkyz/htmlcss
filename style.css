@@ -40,3 +40,39 @@ margin-top: 0 ;
   margin-bottom: 0;
   margin-left:  120px;
 padding: 0 ;}
+
+li{
+  display: flex;
+  flex-direction: row;
+  margin-left: 42px;
+  }
+  nav a{
+  color: #3c3f40;
+  font-size: 14px;
+  font-weight: 400;
+  font-family:sans-serif ;
+  line-height: 50px;
+  text-decoration: none;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
