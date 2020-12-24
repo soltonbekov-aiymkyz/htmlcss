@@ -615,22 +615,19 @@ footer{
  margin: 0 auto;
   background-color: #321e41;
 }
-
-
-
-
-
-
 .container5p{
   margin: 0;
   color: #ffffff;
 }
-
-
-
-
-
-
+.contend{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 95px;
+  margin-left: 80px;
+  width:1200px ;
+  color: #ffffff;
+  }
 
 
 
