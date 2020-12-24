@@ -444,6 +444,116 @@ margin-top: 173px;
   font-weight: 400;
 }
 
+.psection4{
+  display: flex;
+  width: 392px;
+  height: 60px;
+  margin-top: 100px;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: sans-serif;
+  font-weight: 400;
+}
+.request-demo{
+  background-color: #ff3465;
+  border: 1px solid #ff3465;
+  border-radius: 100px;
+  width: 159px;
+  height: 40px;
+  margin-top: 48px;
+  margin-right: 24px;
+  font-size: 14px;
+   line-height: 14px;
+   color: #ffffff;
+}
+.try-free{
+  background-color: #56468f;
+  border: 1px solid #ff3465;
+  border-radius: 100px;
+  width: 116px;
+  height: 40px;
+  top: 431px;
+  color: #ff3465;
+  font-size: 14px;
+   line-height: 14px;
+}
+@media  ( max-width:800px){
+  .container4{
+      display:flex;
+      flex-direction:column;
+      flex-wrap:wrap;
+      margin:0;
+  }
+  .container4p{
+      width:392px ;
+      height:342px;
+      background-color: #56468f;  
+      margin-top: 129px;  
+      margin-left: 0;
+      color: #ffffff;
+  }
+  .goodbay{
+      font-size: 10px;
+      line-height: 19px;
+      font-family: sans-serif;
+  }
+  .hello-copper{
+      font-size: 44px;
+      line-height: 55px;
+      font-family: sans-serif;
+      font-weight: 400;
+  }
+  .psection4{
+      font-size: 15px;
+      line-height: 25px;
+      font-family: sans-serif;
+      font-weight: 400;
+  }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
