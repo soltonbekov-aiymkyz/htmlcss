@@ -342,17 +342,14 @@ li{
  margin: 0 auto;
   background-color: #ffffff;
 }
-
-
-
-
-
-
-
-
-
-
-
+.container3p{
+  display: flex;
+  width:291px ;
+  background-color: #ffffff;  
+  margin-top: 240px;  
+  margin-left: 180px;
+  color: #3c3f40;
+}
 
 
 
