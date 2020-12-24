@@ -189,6 +189,101 @@ li{
   line-height: 21px;
 }
 
+.h4-one{
+  display: flex;
+  margin-top: 16px;
+   width: 306px;
+   height: 260px;
+   font-size: 54px;
+   line-height: 65px;
+   font-family: sans-serif;
+   color: #3c3f40;
+   font-weight: 400;
+ }
+ .main3{
+   display: flex;
+   flex-direction: column;
+   margin-top: 120px;
+   margin-left: 264px;
+   margin-bottom: 52px;
+   margin-right: 174px;
+ }
+ .first-p{
+   display: flex;
+   flex-direction: column;
+   font-family: sans-serif; 
+ }
+ .h5support{
+ display: flex;
+ color: #3c3f40;
+ font-size: 42px;
+ line-height: 54px;
+ font-weight: 400;
+ margin-bottom: 0;
+ margin-top: 0;
+ }
+ .texth5{
+   display: flex;
+   margin-top: 19px;
+   font-size: 20px;
+   line-height: 30px;
+ }
+ .checktext{
+   display: flex;
+   color: #ff3465;
+   font-size: 20px;
+   line-height: 36px;
+   position: absolute;
+   margin-top: 0;
+   margin-bottom: 0;
+   padding-top: 98px;
+ }
+ .texth53{
+   display: flex;
+   font-size: 20px;
+   line-height: 30px; 
+  /*margin-top: 0;
+   margin-bottom: 0;*/
+ }
+ .texth532{
+   display: flex;
+   position: absolute;
+   font-size: 20px;
+   line-height: 30px; 
+  margin-top: 170px;
+   margin-bottom: 0;
+ }
+ .texth533{
+   display: flex;
+   position: absolute;
+   font-size: 20px;
+   line-height: 30px; 
+  margin-top: 170px;
+  margin-left: 350px;
+  color: red;
+   margin-bottom: 0;
+ }
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 
