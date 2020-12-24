@@ -336,72 +336,18 @@ li{
   margin-top: 77px;
   margin-bottom: 0;
 }
-
-
 .pgeneral{
   margin-top: 19px;
   font-size: 20px;
   line-height: 30px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.linkgeneral{
+  display: flex;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-decoration: none;
+  color: #ff3465;
+}
 
 
 
