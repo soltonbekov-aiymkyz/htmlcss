@@ -373,30 +373,47 @@ li{
   font-family: sans-serif; 
 }
 
+.t{
+  display: flex;
+  position: absolute;
+  width: 143px;
+  height: 30px;
+  margin-top: 97px;
+  font-size: 19px;
+  line-height: 30px;
+  font-family: sans-serif; 
+}
+.einfo{
+  display: flex;
+  position: absolute;
+  width: 190px;
+  height: 30px;
+  margin-top: 127px;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: sans-serif; 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
+.h301{
+  display: flex;
+  position: absolute;
+  width: 200px;
+  height: 30px;
+margin-top: 173px;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400px;
+  font-family: sans-serif;
+}
+.san{display: flex;
+  position: absolute;
+  width: 234px;
+  height: 30px;
+ margin-top:203px ; 
+  font-size: 20px;
+  line-height: 30px;
+  font-family: sans-serif;
+}
 
 
 
