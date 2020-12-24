@@ -607,16 +607,6 @@ a{
   }
   }
 */
-
-
-
-
-
-
-
-
-
-
 footer{
   display: flex;
   flex-direction: row;
@@ -625,6 +615,58 @@ footer{
  margin: 0 auto;
   background-color: #321e41;
 }
+
+
+
+
+
+
+.container5p{
+  margin: 0;
+  color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
