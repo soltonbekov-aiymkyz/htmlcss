@@ -64,7 +64,6 @@ li{
     align-items: center;
     margin-left:212px;
     }
-    
     .loginn{
     display: flex;
     align-items: center;
@@ -78,10 +77,6 @@ li{
     .picture{
     display: flex;
     flex-direction: row;
-    
-    /* margin0 auto*/
-    
-    
     }
     .firstpicture{
     width: 720px;
@@ -157,6 +152,105 @@ li{
     color: #ffffff;
     font-size: 14px;
     }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .container2{
+      display: flex;
+      max-width:1440px ;
+      min-height: 1006px;
+     margin: 0 auto;
+      background-color: #d4b2b2;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
     
     @media  ( max-width:800px){
     .picture{
