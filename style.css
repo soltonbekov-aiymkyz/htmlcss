@@ -152,20 +152,7 @@ li{
     color: #ffffff;
     font-size: 14px;
     }
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
     .container2{
       display: flex;
       max-width:1440px ;
@@ -242,8 +229,6 @@ li{
    display: flex;
    font-size: 20px;
    line-height: 30px; 
-  /*margin-top: 0;
-   margin-bottom: 0;*/
  }
  .texth532{
    display: flex;
@@ -285,11 +270,9 @@ li{
 }
 .sales{
   color: #ff3465;
- /* position: absolute;*/
   padding-left: 100px;
   text-decoration: none;
 }
-
 .thirdp{
   display: flex;
   flex-direction: column;
@@ -305,7 +288,6 @@ li{
   margin-top: 77px;
   margin-bottom: 0;
 }
-
 .h62text{
   margin-top: 19px;
   font-size: 20px;
@@ -350,25 +332,15 @@ li{
 }
 
 
-@media  ( max-width:800px){
-  .container2{
-      display:flex;
-      flex-direction:column;
-      flex-wrap:wrap;
-      margin: 0 ;
-  }
-  .main2{
-      display:flex;
-      flex-direction:column;
-      flex-wrap:wrap;
-      margin: 0 ;
-  }
-  .main3{
 
-      display:flex;
-      flex-direction:column;
-      margin: 0 ;
-  }
+
+
+.container3{
+  display: flex;
+  max-width:1440px ;
+  min-height:840px;
+ margin: 0 auto;
+  background-color: #ffffff;
 }
 
 
@@ -408,53 +380,30 @@ li{
 
 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
+@media  ( max-width:800px){
+  .container2{
+      display:flex;
+      flex-direction:column;
+      flex-wrap:wrap;
+      margin: 0 ;
+  }
+  .main2{
+      display:flex;
+      flex-direction:column;
+      align-items: center;
+      flex-wrap:wrap;
+      margin: 0 ;
+  }
+  .main3{
+      display:flex;
+      flex-direction:column;
+      margin: 0 ;
+  }
+}
     
     @media  ( max-width:800px){
     .picture{
