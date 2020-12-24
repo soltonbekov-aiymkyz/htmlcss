@@ -19,9 +19,6 @@ align-items: center;
 margin-top: 0 ;
 margin-bottom: 0;
 }
-
-
-
 nav h2{
   display: flex;
   align-items: center;
@@ -55,6 +52,145 @@ li{
   text-decoration: none;
   }
   
+  .tryfree{
+    display: flex;
+    width: 116px;
+    height: 40px;
+    border-radius: 100px;
+    background-color: #ff3465;
+    border: 1px solid #ff3465;
+    color: #ffffff;
+    justify-content: center;
+    align-items: center;
+    margin-left:212px;
+    }
+    
+    .loginn{
+    display: flex;
+    align-items: center;
+    width: 39px;
+    height: 20px;
+    color:#ff3465;
+    margin-left: 18px;
+    text-decoration: none;
+    font-family: sans-serif;
+    }
+    .picture{
+    display: flex;
+    flex-direction: row;
+    
+    /* margin0 auto*/
+    
+    
+    }
+    .firstpicture{
+    width: 720px;
+    height: 720px;
+    background-color: #321e41;
+    }
+    .secondpicture{
+    width: 720px;
+    height: 720px;
+    left: 720px;
+    background-color: lightblue;
+    }
+    .block{
+    display: flex;
+    flex-direction: column;
+    width: 529px;
+    height: 292px;
+    margin-top: 254px;
+    margin-left: 165px;
+    }
+    .contacktus{
+    display: flex;
+    color: #ffffff;
+    width: 80px;
+    height: 21px;
+    top: 254px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 21px;
+    }
+    h3{
+    display: flex;
+    color: #ffffff;
+    margin-bottom: 0;
+    height: 130px;
+    
+    top: 291px;
+    font-size: 54px;
+    line-height: 65px;
+    margin-top: 16px;
+    }
+    .p2need{
+    color: #ffffff;
+    display: flex;
+    margin-top: 24px;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: sans-serif;
+    }
+    .buttonone{
+    display: flex;
+    flex-direction: row;
+    }
+    .contactus{
+    background-color: #ff3465;
+    border: 1px solid #ff3465;
+    border-radius: 100px;
+    width: 136px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #ffffff;
+    }
+    .visitsupport{
+    background-color: #ff3465;
+    border: 1px solid #ff3465;
+    border-radius: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    width: 136px;
+    color: #ffffff;
+    font-size: 14px;
+    }
+    
+    @media  ( max-width:800px){
+    .picture{
+        display:flex;
+        flex-direction:column;
+        flex-wrap:wrap;
+        margin: 0 auto;
+    }
+        .container{
+            display:flex;
+            flex-direction:column;
+            flex-wrap:wrap;
+            margin: 0 auto ;    
+        }
+    
+        nav{
+            width: 720px;
+          height: 100px;
+          margin-left:0;
+          background-color: #ffffff;
+           position: absolute;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          margin-top: 0 ;
+          margin-bottom: 0;
+      }
+      nav h2{
+           display: flex;
+           align-items: center;
+           margin-left: 0;
+           margin-top: 0 ;
+           margin-bottom: 0;
+      }
   
   
   
