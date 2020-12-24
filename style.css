@@ -715,6 +715,16 @@ footer{
 
 
 
+  @media  ( max-width:800px){
+    footer{
+        display:flex;
+        flex-direction:column;
+        flex-wrap:wrap;
+        margin: 0 auto ;
+        align-items: center;
+    }
+  
+    }
 
 
 
