@@ -422,35 +422,15 @@ margin-top: 173px;
   margin-left: 165px;
   color: #ffffff;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.goodbay{
+  display: flex;
+  width: 144px;
+  height: 21px;
+  top: 0px;
+  font-size: 13px;
+  line-height: 21px;
+  font-family: sans-serif;
+}
 
 
 footer{
