@@ -710,11 +710,6 @@ footer{
    font-weight: 400;
    font-family: sans-serif;
   }
-  
-  
-
-
-
   @media  ( max-width:800px){
     footer{
         display:flex;
@@ -723,7 +718,13 @@ footer{
         margin: 0 auto ;
         align-items: center;
     }
-  
+    .contend{
+      display: flex;
+      flex-direction: column;
+      width:500px ;
+      align-items: center;
+      color: #ffffff;
+      }
     }
 
 
