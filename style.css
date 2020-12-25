@@ -907,6 +907,11 @@ footer{
       align-items: center;
     margin: 0;
   }
+  
+nav h1{
+  display: flex;
+ 
+}
   nav h2{
        display: flex;
        align-items: center;
