@@ -169,8 +169,8 @@ li{
   width: 80px;
   height: 21px;
   display: flex;
-  font-size: 13px;
-  line-height: 21px;
+  font-size: 15px;
+  line-height: 20px;
 }
 .h4-one{
   display: flex;
@@ -190,6 +190,9 @@ li{
    margin-left: 264px;
    margin-bottom: 52px;
    margin-right: 174px;
+
+
+   color: #3c3f40;
  }
  .first-p{
    display: flex;
@@ -233,6 +236,9 @@ li{
    line-height: 30px; 
   margin-top: 170px;
    margin-bottom: 0;
+
+
+
  }
  .texth533{
    display: flex;
@@ -288,6 +294,8 @@ li{
   margin-top: 19px;
   font-size: 20px;
   line-height: 30px;
+
+  color: #3c3f40;
 }
 .h6link{
   display: flex;
@@ -801,7 +809,7 @@ footer{
             margin: 0 auto ;    
         }
         nav{
-            width: 744px;
+            width: 740px;
           height: 150px;
          margin: 0;
           background-color: #ffffff;
