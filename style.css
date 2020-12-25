@@ -910,7 +910,8 @@ footer{
   
 nav h1{
   display: flex;
- 
+  align-items: start;
+  
 }
   nav h2{
        display: flex;
