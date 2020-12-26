@@ -678,6 +678,498 @@ footer{
 .footer3p{
   margin-right: 40px;
 }*/
+/*
+@media  ( max-width:700px){
+  .container{
+    display: flex;
+    flex-direction: column;
+  }
+  .firstpicture{
+    width: 680px;
+    background-color: #321e41;
+    }
+    .secondpicture{
+      width: 600px;
+       margin: 0;
+      }
+    .block{
+      display: flex;
+      flex-direction: column;
+      width: 529px;
+      height: 292px;
+      margin-top: 254px;
+      margin-left: 0;
+      }
+      nav{
+        width: 680px;
+      height: 150px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    margin: 0;
+  }
+  
+nav h1{
+  display: flex;
+  align-items: start;
+  margin: 0;
+}
+  nav h2{
+       display: flex;
+       align-items: center;
+     margin: 0;
+  }
+  nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  margin-top: 0 ;
+    margin-bottom: 0;
+    margin-left:  0;
+  padding: 0 ;}
+li{
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+.tryfree{
+display: flex;
+flex-direction: row;
+  justify-content: center;
+  margin: 0 auto;
+} 
+.loginn{
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+}
+}*/
+
+
+
+
+
+
+
+@media (max-width:1200px){
+  .container{
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+    min-height: 720px;
+    margin: 0 ;
+  }
+  nav{
+    width: 1200px;
+  height: 180px;
+   position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  }
+  .hh{
+    display: flex;
+    align-items: center;
+   margin: 0;
+  }
+  h2{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    font-weight: bold;
+    font-size: 21px;
+  }
+
+   nav ul {
+    display: flex;
+    flex-direction: row;
+   margin: 0;}
+  li{
+    display: flex;
+    flex-direction: row;
+    }
+    nav a{
+    font-size: 12px;
+    }
+    .tryfree{
+      display: flex;
+      margin-left:59;
+      }
+      .loginn{
+      margin-left: 0px;
+      }
+      .picture{
+      display: flex;
+      flex-direction: column;
+      max-width: 1200px;
+      }
+      .firstpicture{
+      width: 1200px;
+      height: 720px;
+      }
+      .secondpicture{
+      width: 1200px;
+      height: 720px;
+      left: 0;
+      }
+      .block{
+      display: flex;
+      flex-direction: column;
+      width: 1200px;
+      height: 292px;
+      margin-top: 254px;
+      margin-left: 0;
+      }
+      .contacktus{
+      display: flex;
+      width: 90px;
+      height: 21px;
+      top: 0;
+      margin-left: 0;
+      font-size: 12px;
+      line-height: 20px;
+      }
+      h3{
+      display: flex;
+      color: #ffffff;
+      margin-bottom: 0;
+      height: 130px;
+      top: 291px;
+      font-size: 33px;
+      line-height: 45px;
+      margin-top: 16px;
+      }
+      .p2need{
+      color: #ffffff;
+      display: flex;
+      margin-top: 24px;
+      font-size: 20px;
+      line-height: 30px;
+      font-family: sans-serif;
+      }
+      .buttonone{
+      display: flex;
+      flex-direction: row;
+      }
+      .container2{
+        display: flex;
+        max-width:1200px ;
+       margin: 0 ;
+    }
+    .main2{
+      display: flex;
+      flex-direction: column;
+   margin: 0 auto;
+  }
+  .h4-one{
+    display: flex;
+    margin-top: 16px;
+     width: 280px;
+     height: 250px;
+     font-size: 44px;
+     line-height: 55px;
+   }
+   .main3{
+     display: flex;
+     flex-direction: column;
+     margin-top: 120px;
+     margin-left: 20px;
+     margin-bottom: 52px;
+     margin-right: 0px;
+   }
+
+  .container3{
+    display: flex;
+    flex-direction: column;
+    max-width:1200px ;
+    min-height:840px;
+   margin: 0 ;
+  }
+  .container3p{
+    display: flex;
+    width:281px ;
+    background-color: #ffffff;  
+    margin-top: 240px;  
+    margin-left: 20px;
+  }
+  .container4{
+    display: flex;
+    flex-direction: column;
+    max-width:1200px ;
+    min-height:600px;
+   margin: 0 ;
+  }
+  .container4p{
+    width:350px ;
+    height:342px; 
+    margin-top: 129px;  
+    margin-left: 65px;
+  }
+  .goodbay{
+    display: flex;
+    width: 130px;
+    height: 21px;
+    top: 0px;
+    font-size: 12px;
+    line-height: 15px;
+    font-family: sans-serif;
+  }
+  .hello-copper{
+    display: flex;
+    width: 380px;
+    font-size: 44px;
+  } 
+  
+  footer{
+    display: flex;
+    flex-direction: column;
+    max-width:12000px ;
+    min-height:550px;
+   margin: 0 ;
+  }
+  .container5p{
+    margin: 0;
+  }
+  .contend{
+    display: flex;
+    flex-direction: column;
+    margin-top: 95px;
+    margin-left: 50px;
+    width:1200px ;
+    }
+  .bottomfooter{
+    display: flex;
+    flex-direction: column;
+    margin-top:50px;
+    width: 1200px;
+    min-height: 60px;
+    margin-left: 25px;
+    margin-bottom: 50px;
+  }
+  .bottomfooter h6{
+    line-height: 20px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:900px){
+  .container{
+    display: flex;
+    flex-direction: column;
+    max-width: 900px;
+    min-height: 720px;
+    margin: 0 ;
+  }
+  nav{
+    width: 900px;
+  height: 180px;
+   position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  }
+  .hh{
+    display: flex;
+    align-items: center;
+   margin: 0;
+  }
+  h2{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    font-weight: bold;
+    font-size: 21px;
+  }
+
+   nav ul {
+    display: flex;
+    flex-direction: row;
+   margin: 0;}
+  li{
+    display: flex;
+    flex-direction: row;
+    }
+    nav a{
+    font-size: 12px;
+    }
+    .tryfree{
+      display: flex;
+      margin-left:59;
+      }
+      .loginn{
+      margin-left: 0px;
+      }
+      .picture{
+      display: flex;
+      flex-direction: column;
+      max-width: 900px;
+      }
+      .firstpicture{
+      width: 900px;
+      height: 720px;
+      }
+      .secondpicture{
+      width: 900px;
+      height: 720px;
+      left: 0;
+      }
+      .block{
+      display: flex;
+      flex-direction: column;
+      width: 900px;
+      height: 292px;
+      margin-top: 254px;
+      margin-left: 0;
+      }
+      .contacktus{
+      display: flex;
+      width: 90px;
+      height: 21px;
+      top: 0;
+      margin-left: 0;
+      font-size: 12px;
+      line-height: 20px;
+      }
+      h3{
+      display: flex;
+      color: #ffffff;
+      margin-bottom: 0;
+      height: 130px;
+      top: 291px;
+      font-size: 33px;
+      line-height: 45px;
+      margin-top: 16px;
+      }
+      .p2need{
+      color: #ffffff;
+      display: flex;
+      margin-top: 24px;
+      font-size: 20px;
+      line-height: 30px;
+      font-family: sans-serif;
+      }
+      .buttonone{
+      display: flex;
+      flex-direction: row;
+      }
+      .container2{
+        display: flex;
+        max-width:900px ;
+       margin: 0 ;
+    }
+    .main2{
+      display: flex;
+      flex-direction: column;
+   margin: 0 auto;
+  }
+  .h4-one{
+    display: flex;
+    margin-top: 16px;
+     width: 280px;
+     height: 250px;
+     font-size: 44px;
+     line-height: 55px;
+   }
+   .main3{
+     display: flex;
+     flex-direction: column;
+     margin-top: 120px;
+     margin-left: 20px;
+     margin-bottom: 52px;
+     margin-right: 0px;
+   }
+
+  .container3{
+    display: flex;
+    flex-direction: column;
+    max-width:900px ;
+    min-height:840px;
+   margin: 0 ;
+  }
+  .container3p{
+    display: flex;
+    width:281px ;
+    background-color: #ffffff;  
+    margin-top: 240px;  
+    margin-left: 20px;
+  }
+  .container4{
+    display: flex;
+    flex-direction: column;
+    max-width:900px ;
+    min-height:600px;
+   margin: 0 ;
+  }
+  .container4p{
+    width:350px ;
+    height:342px; 
+    margin-top: 129px;  
+    margin-left: 65px;
+  }
+  .goodbay{
+    display: flex;
+    width: 130px;
+    height: 21px;
+    top: 0px;
+    font-size: 12px;
+    line-height: 15px;
+    font-family: sans-serif;
+  }
+  .hello-copper{
+    display: flex;
+    width: 380px;
+    font-size: 44px;
+  } 
+  
+  footer{
+    display: flex;
+    flex-direction: column;
+    max-width:900px ;
+    min-height:550px;
+   margin: 0 ;
+  }
+  .container5p{
+    margin: 0;
+  }
+  .contend{
+    display: flex;
+    flex-direction: column;
+    margin-top: 95px;
+    margin-left: 50px;
+    width:900px ;
+    }
+  .bottomfooter{
+    display: flex;
+    flex-direction: column;
+    margin-top:50px;
+    width: 900px;
+    min-height: 60px;
+    margin-left: 25px;
+    margin-bottom: 50px;
+  }
+  .bottomfooter h6{
+    line-height: 20px;
+  }
+}
+
+
+
+
+
+
+
 @media  ( max-width:800px){
   .bottomfooter{
     display: flex;
@@ -878,7 +1370,6 @@ footer{
         display: flex;
         flex-direction: row;
         list-style: none;
-       /* align-items:start;*/
        justify-content: flex-start;
      margin: 0;
       padding: 0 ;}
@@ -910,71 +1401,23 @@ footer{
       font-family: sans-serif;
   }
 }
-@media  ( max-width:700px){
-  .container{
-    display: flex;
-    flex-direction: column;
-  }
-  .firstpicture{
-    width: 680px;
-    background-color: #321e41;
-    }
-    .secondpicture{
-      width: 600px;
-       margin: 0;
-      }
-    .block{
-      display: flex;
-      flex-direction: column;
-      width: 529px;
-      height: 292px;
-      margin-top: 254px;
-      margin-left: 0;
-      }
-      nav{
-        width: 680px;
-      height: 150px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    margin: 0;
-  }
-  
-nav h1{
-  display: flex;
-  align-items: start;
-  margin: 0;
-}
-  nav h2{
-       display: flex;
-       align-items: center;
-     margin: 0;
-  }
-  nav ul {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-  margin-top: 0 ;
-    margin-bottom: 0;
-    margin-left:  0;
-  padding: 0 ;}
-li{
-  display: flex;
-  flex-direction: column;
-  margin-left: 20px;
-}
-.tryfree{
-display: flex;
-flex-direction: row;
-  justify-content: center;
-  margin: 0 auto;
-} 
-.loginn{
-  display: flex;
-  align-items: center;
-  margin-left: 20px;
-}
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1184,3 +1627,4 @@ flex-direction: row;
     line-height: 20px;
   }
 }
+
