@@ -54,6 +54,10 @@ li{
   flex-direction: row;
   margin-left: 42px;
   }
+  nav img {
+    display: flex;
+    margin-top: 20px;
+  }
   nav a{
   color: #3c3f40;
   font-size: 14px;
@@ -619,7 +623,7 @@ footer{
   display: flex;
   flex-direction: row;
   margin-top:50px;
-  width: 1110px;
+  width: 900px;
   min-height: 60px;
   color:#ffffff;
   margin-left: 125px;
@@ -634,6 +638,7 @@ footer{
   margin-top: 0;
   margin-bottom: 0;
 }
+/*
 .footer1p{
   margin-left: 40px;
 }
@@ -642,7 +647,7 @@ footer{
 }
 .footer3p{
   margin-right: 40px;
-}
+}*/
 @media  ( max-width:800px){
   .bottomfooter{
     display: flex;
