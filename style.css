@@ -19,6 +19,7 @@ align-items: center;
 margin-top: 0 ;
 margin-bottom: 0;
 }
+/*
 nav h1{
   display: flex;
   align-items: center;
@@ -36,7 +37,26 @@ nav h2{
   font-weight: bold;
   font-size: 35px;
   font-family: 'Ultra', serif;
- }
+ }*/
+.hh{
+  display: flex;
+  align-items: center;
+  margin-left: 5%;
+  margin-top: 0 ;
+  margin-bottom: 0;
+  color: #ff3465;
+}
+h2{
+  display: flex;
+  align-items: center;
+  margin-left: 3px;
+  margin-top: 0 ;
+  margin-bottom: 0;
+  font-weight: bold;
+  font-size: 35px;
+  font-family: 'Ultra', serif; 
+  color: black;
+}
  nav ul {
   display: flex;
   flex-direction: row;
@@ -46,7 +66,7 @@ nav h2{
 margin-top: 0 ;
   margin-bottom: 0;
 
- margin-left:  100px;
+ margin-left:  60px;
  
 padding: 0 ;}
 li{
@@ -54,10 +74,11 @@ li{
   flex-direction: row;
   margin-left: 42px;
   }
+  /*
   nav img {
     display: flex;
-    margin-top: 20px;
-  }
+    margin-top: 23px;
+  }*/
   nav a{
   color: #3c3f40;
   font-size: 14px;
@@ -76,7 +97,7 @@ li{
     color: #ffffff;
     justify-content: center;
     align-items: center;
-    margin-left:212px;
+    margin-left:180px;
     }
     .loginn{
     display: flex;
@@ -593,9 +614,11 @@ footer{
       line-height: 24px;
       font-weight: 400;
       font-family: sans-serif;
+      color: #ffffff;
   }
    .container8p{ margin: 0; }
    .footer-h5{
+     
     font-size: 16px;
     line-height: 24px;
     font-weight: 400;
@@ -831,7 +854,7 @@ footer{
         }
         nav{
             width: 740px;
-          height: 150px;
+          height: 200px;
          margin: 0;
           background-color: #ffffff;
            position: absolute;
@@ -850,17 +873,15 @@ footer{
         list-style: none;
        /* align-items:start;*/
        justify-content: flex-start;
-     /*   margin-left:  120px;*/
      margin: 0;
       padding: 0 ;}
   li{
       display: flex;
       flex-direction: column;
-
       margin: 0;
   }
   .tryfree{
-    display: flex;
+       display: flex;
       width: 116px;
       height: 40px;
       border-radius: 100px;
@@ -869,7 +890,7 @@ footer{
       color: #ffffff;
       justify-content: center;
       align-items: center;
-      margin-left:0;
+      margin-left:172px;
   } 
   .loginn{
       display: flex;
@@ -882,11 +903,6 @@ footer{
       font-family: sans-serif;
   }
 }
-
-
-
-
-
 @media  ( max-width:700px){
   .container{
     display: flex;
