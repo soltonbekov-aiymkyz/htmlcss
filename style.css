@@ -552,6 +552,7 @@ footer{
     font-weight: bold;
     font-size: 30px;
     line-height: 26px;
+    color: #ffffff;
   }
   .footer-ul-one{
     list-style: none;
@@ -607,6 +608,7 @@ footer{
       line-height: 24px;
       font-weight: 400;
       font-family: sans-serif;
+      color: #ffffff;
     }
     .container7p{  margin: 0; }
     .footer-h4{
@@ -626,6 +628,7 @@ footer{
 }
 .container9p{margin: 0;}
 .footer-h6{
+  color: #ffffff;
   font-size: 16px;
   line-height: 24px;
   font-weight: 400;
@@ -635,6 +638,7 @@ footer{
   margin: 0;
   }
   .footer-h7{
+    color: #ffffff;
     font-size: 16px;
    line-height: 24px;
    font-weight: 400;
