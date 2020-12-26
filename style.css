@@ -1,5 +1,5 @@
 *{box-sizing: border-box;}
-body{ margin: 0 auto; }
+body{ margin: 0; }
 .container{
   display: flex;
   flex-direction: row;
@@ -33,6 +33,9 @@ nav h2{
   margin-left: 0;
   margin-top: 0 ;
   margin-bottom: 0;
+  font-weight: bold;
+  font-size: 35px;
+  font-family: 'Ultra', serif;
  }
  nav ul {
   display: flex;
@@ -110,7 +113,10 @@ li{
     width: 90px;
     height: 21px;
     top: 254px;
-    font-family: 'Roboto', sans-serif;
+    margin-left: 40px;
+    /*
+    font-family: 'Roboto', sans-serif;*/
+    font-family: 'Teko', sans-serif;
     font-style: normal;
     font-size: 12px;
     font-weight: normal;
