@@ -19,27 +19,6 @@ align-items: center;
 margin-top: 0 ;
 margin-bottom: 0;
 }
-/*
-nav h1{
-  display: flex;
-  align-items: center;
-  margin-left: 5%;
-  margin-top: 0 ;
-  margin-bottom: 0;
-  color: #ff3465;
-}
-nav h2{
-  display: flex;
-  align-items: center;
-  margin-left: 0;
-  margin-top: 0 ;
-  margin-bottom: 0;
-  font-weight: bold;
-  font-size: 35px;
-  font-family: 'Ultra', serif;
- }
-
-*/
 .hh{
   display: flex;
   align-items: center;
@@ -234,8 +213,6 @@ font-family: 'Roboto', sans-serif;
    margin-left: 264px;
    margin-bottom: 52px;
    margin-right: 174px;
-
-
    color: #3c3f40;
  }
  .first-p{
@@ -424,6 +401,7 @@ font-family: 'Roboto', sans-serif;
   line-height: 30px;
   font-family: sans-serif; 
 }
+
 .einfo{
   display: flex;
   position: absolute;
@@ -744,6 +722,258 @@ flex-direction: row;
   margin-left: 20px;
 }
 }*/
+
+
+@media (max-width:1300px){
+  .container{
+    display: flex;
+    flex-direction: column;
+    max-width: 1300px;
+    min-height: 720px;
+    margin: 0 ;
+  }
+  nav{
+    width: 1300px;
+  height: 180px;
+   position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  }
+  .hh{
+    display: flex;
+    align-items: center;
+   margin: 0;
+  }
+  h2{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    font-weight: bold;
+    font-size: 21px;
+  }
+
+   nav ul {
+    display: flex;
+    flex-direction: row;
+   margin: 0;}
+  li{
+    display: flex;
+    flex-direction: row;
+    }
+    nav a{
+    font-size: 12px;
+    }
+    .tryfree{
+      display: flex;
+      margin-left:59;
+      }
+      .loginn{
+      margin-left: 0px;
+      }
+      .picture{
+      display: flex;
+      flex-direction: column;
+      max-width: 1300px;
+      }
+      .firstpicture{
+      width: 1300px;
+      height: 720px;
+      }
+      .secondpicture{
+      width: 1300px;
+      height: 720px;
+      left: 0;
+      }
+      .block{
+      display: flex;
+      flex-direction: column;
+      width: 1300px;
+      height: 292px;
+      margin-top: 254px;
+      margin-left: 0;
+      }
+      .contacktus{
+      display: flex;
+      width: 90px;
+      height: 21px;
+      top: 0;
+      margin-left: 0;
+      font-size: 12px;
+      line-height: 20px;
+      }
+      h3{
+      display: flex;
+      color: #ffffff;
+      margin-bottom: 0;
+      height: 130px;
+      top: 291px;
+      font-size: 33px;
+      line-height: 45px;
+      margin-top: 16px;
+      }
+      .p2need{
+      color: #ffffff;
+      display: flex;
+      margin-top: 24px;
+      font-size: 20px;
+      line-height: 30px;
+      font-family: sans-serif;
+      }
+      .buttonone{
+      display: flex;
+      flex-direction: row;
+      }
+      .container2{
+        display: flex;
+        max-width:1300px ;
+       margin: 0 ;
+    }
+    .main2{
+      display: flex;
+      flex-direction: column;
+   margin: 0 auto;
+  }
+  .h4-one{
+    display: flex;
+    margin-top: 16px;
+     width: 280px;
+     height: 250px;
+     font-size: 44px;
+     line-height: 55px;
+   }
+   .main3{
+     display: flex;
+     flex-direction: column;
+     margin-top: 120px;
+     margin-left: 20px;
+     margin-bottom: 52px;
+     margin-right: 0px;
+   }
+
+  .container3{
+    display: flex;
+    flex-direction: column;
+    max-width:1300px ;
+    min-height:840px;
+   margin: 0 ;
+  }
+  .container3p{
+    display: flex;
+    width:281px ;
+    background-color: #ffffff;  
+    margin-top: 240px;  
+    margin-left: 20px;
+  }
+  .container4{
+    display: flex;
+    flex-direction: column;
+    max-width:1350px ;
+    min-height:600px;
+   margin: 0 ;
+  }
+  .container4p{
+    width:350px ;
+    height:342px; 
+    margin-top: 129px;  
+    margin-left: 65px;
+  }
+  .goodbay{
+    display: flex;
+    width: 130px;
+    height: 21px;
+    top: 0px;
+    font-size: 12px;
+    line-height: 15px;
+    font-family: sans-serif;
+  }
+  .hello-copper{
+    display: flex;
+    width: 380px;
+    font-size: 44px;
+  } 
+  
+  footer{
+    display: flex;
+    flex-direction: column;
+    max-width:1300px ;
+    min-height:550px;
+   margin: 0 ;
+  }
+  .container5p{
+    margin: 0;
+  }
+  .contend{
+    display: flex;
+    flex-direction: column;
+    margin-top: 95px;
+    margin-left: 50px;
+    width:1350px ;
+    }
+  .bottomfooter{
+    display: flex;
+    flex-direction: column;
+    margin-top:50px;
+    width: 1300px;
+    min-height: 60px;
+    margin-left: 25px;
+    margin-bottom: 50px;
+  }
+  .bottomfooter h6{
+    line-height: 20px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1117,6 +1347,7 @@ flex-direction: row;
     height:342px; 
     margin-top: 129px;  
     margin-left: 65px;
+    font-size: 18px;
   }
   .goodbay{
     display: flex;
