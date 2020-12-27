@@ -118,7 +118,7 @@ li{
     display: flex;
     color: #ffffff;
     width: 90px;
-    height: 21px;
+    height: 20px;
     top: 254px;
     margin-left: 40px;
     /*
@@ -132,12 +132,14 @@ li{
     h3{
     display: flex;
     color: #ffffff;
+    font-family: sans-serif;
+    font-weight: 400;
     margin-bottom: 0;
     height: 130px;
     top: 291px;
     font-size: 54px;
     line-height: 65px;
-    margin-top: 16px;
+    margin-top: 0;
     }
     .p2need{
     color: #ffffff;
@@ -177,6 +179,7 @@ li{
       min-height: 1006px;
      margin: 0 auto;
       background-color: #d4b2b2;
+      
   }
   .main2{
     display: flex;
@@ -335,6 +338,8 @@ font-family: 'Roboto', sans-serif;
 }
 .h2general{
   display: flex;
+  color: #3c3f40;
+  font-family: sans-serif;
   font-size: 42px;
   line-height: 54px;
   line-height: 30px;
