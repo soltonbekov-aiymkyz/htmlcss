@@ -2224,6 +2224,7 @@ flex-direction: row;
       .container2{
         display: flex;
         max-width:500px ;
+        flex-direction: column;
        margin: 0 ;
     }
     .main2{
