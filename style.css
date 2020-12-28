@@ -638,7 +638,7 @@ footer{
   display: flex;
   flex-direction: row;
   margin-top:50px;
-  width: 900px;
+  width:1100px;
   min-height: 60px;
   color:#ffffff;
   margin-left: 125px;
@@ -1908,7 +1908,7 @@ flex-direction: row;
     margin: 0 ;
   }
   nav{
-    width: 800px;
+    width:800px;
   height: 180px;
    position: absolute;
   display: flex;
@@ -1957,9 +1957,9 @@ flex-direction: row;
       height: 720px;
       }
       .secondpicture{
-      width: 800px;
+      width:800px;
       height: 720px;
-      background-size: 800px;
+      background-size: 758px;
       left: 0;
       }
       .block{
