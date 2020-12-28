@@ -103,8 +103,8 @@ li{
     .secondpicture{
     width: 720px;
     height: 720px;
-    left: 720px;
     background-color: lightblue;
+    left: 720px;
     }
     .block{
     display: flex;
@@ -794,7 +794,7 @@ flex-direction: row;
       height: 720px;
       }
       .secondpicture{
-      width: 1300px;
+     width: 1300px;
       height: 720px;
       left: 0;
       }
@@ -1042,10 +1042,12 @@ flex-direction: row;
       .firstpicture{
       width: 1300px;
       height: 720px;
+
       }
       .secondpicture{
       width: 1300px;
       height: 720px;
+      background-size: 1300px;
       left: 0;
       }
       .block{
@@ -1303,6 +1305,7 @@ flex-direction: row;
       .secondpicture{
       width: 1200px;
       height: 720px;
+      background-size: 1200px;
       left: 0;
       }
       .block{
@@ -1509,7 +1512,7 @@ flex-direction: row;
       max-width: 900px;
       }
       .firstpicture{
-      width: 900px;
+     width: 900px;
       height: 720px;
       }
       .secondpicture{
