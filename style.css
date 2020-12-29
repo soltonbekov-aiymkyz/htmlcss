@@ -529,6 +529,7 @@ footer{
 .container5p{
   margin: 0;
   color: #ffffff;
+  font-family: sans-serif;
 }
 .contend{
   display: flex;
@@ -594,6 +595,7 @@ footer{
     }
     .container6p{
       margin: 0;
+      font-family: sans-serif;
      }
      .footer-h3{
       font-size: 16px;
@@ -602,7 +604,8 @@ footer{
       font-family: sans-serif;
       color: #ffffff;
     }
-    .container7p{  margin: 0; }
+    .container7p{  margin: 0;
+    font-family: sans-serif; }
     .footer-h4{
       font-size: 16px;
       line-height: 24px;
@@ -953,25 +956,13 @@ flex-direction: row;
     margin-left: 25px;
     margin-bottom: 50px;
   }
+  .footerp1{
+margin-left: 0;
+  }
   .bottomfooter h6{
     line-height: 20px;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1204,6 +1195,9 @@ flex-direction: row;
     min-height: 60px;
     margin-left: 25px;
     margin-bottom: 50px;
+  }
+  .footerp1{
+    margin-left: 0;
   }
   .bottomfooter h6{
     line-height: 20px;
