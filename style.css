@@ -56,9 +56,14 @@ li{
   flex-direction: row;
   margin-left: 42px;
   }
-li img {
+
+  
+nav  img {
+  display: flex;
+  align-items: center;
   width: 6px;
   height: 6px;
+  margin-left: 10px;
 }
 
 
