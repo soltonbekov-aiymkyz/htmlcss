@@ -636,8 +636,6 @@ footer{
    font-weight: 400;
    font-family: sans-serif;
   }
-
-
 .bottomfooter{
   display: flex;
   flex-direction: row;
@@ -647,7 +645,7 @@ footer{
   color:#ffffff;
   margin-left: 125px;
   margin-bottom: 50px;
-  justify-content: space-between;
+  /*justify-content: space-between;*/
 }
 .bottomfooter h6{
   width: 220px;
@@ -656,10 +654,15 @@ footer{
   line-height: 30px;
   margin-top: 0;
   margin-bottom: 0;
+  margin-left: 0;
+}
+.footerp1{
+margin-left: 330px;
 }
 .bottomfooter img{
   margin-top: 20px;
   margin-bottom: 0px;
+  margin-left: 10px;
   width: 15px;
   height: 15px;
 }
