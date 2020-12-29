@@ -56,6 +56,12 @@ li{
   flex-direction: row;
   margin-left: 42px;
   }
+li img {
+  width: 6px;
+  height: 6px;
+}
+
+
   /*
   nav img {
     display: flex;
@@ -79,6 +85,7 @@ li{
     color: #ffffff;
     justify-content: center;
     align-items: center;
+    box-shadow:0px 6px 20px 1px rgb(212, 205, 205);
     margin-left:180px;
     }
     .loginn{
@@ -512,10 +519,7 @@ margin-top: 173px;
 footer{
   display: flex;
 
-
   flex-direction: column;
-
-
 
   max-width:1440px ;
   min-height:550px;
@@ -532,7 +536,7 @@ footer{
   justify-content: space-around;
   margin-top: 95px;
   margin-left: 80px;
-  width:1200px ;
+  width:1100px ;
   color: #ffffff;
 
   }
@@ -554,7 +558,7 @@ footer{
       margin: 0;
     }
     .li-footer2{
-      font-size: 12px;
+      font-size: 13px;
       line-height: 26px;
       margin: 0;
     }
@@ -564,12 +568,12 @@ footer{
       margin: 0;
     }
     .li-footer4{
-      font-size: 12px;
+      font-size: 13px;
       line-height: 26px;
       margin: 0;
     }
     .li-footer5{
-      font-size: 12px;
+      font-size: 13px;
       line-height: 26px;
       margin: 0;
     }
@@ -579,7 +583,7 @@ footer{
       margin: 0;
     }
     .li-footer7{
-      font-size: 12px;
+      font-size: 13px;
       line-height: 26px;
       margin: 0;
     }
@@ -656,6 +660,8 @@ footer{
 .bottomfooter img{
   margin-top: 20px;
   margin-bottom: 0px;
+  width: 15px;
+  height: 15px;
 }
 /*
 .footer1p{
