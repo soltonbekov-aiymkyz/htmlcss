@@ -1387,7 +1387,7 @@ margin-left: 0;
   footer{
     display: flex;
     flex-direction: column;
-    max-width:12000px ;
+    max-width:1200px ;
     min-height:550px;
    margin: 0 ;
   }
@@ -1402,7 +1402,7 @@ margin-left: 0;
     width:1200px ;
     }
   .bottomfooter{
-    display: flex;
+   display: flex;
     flex-direction: column;
     margin-top:50px;
     width: 1200px;
@@ -1410,6 +1410,8 @@ margin-left: 0;
     margin-left: 25px;
     margin-bottom: 50px;
   }
+
+
   .bottomfooter h6{
     line-height: 20px;
   }
