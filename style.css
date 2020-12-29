@@ -1003,12 +1003,12 @@ margin-left: 0;
   .container{
     display: flex;
     flex-direction: column;
-    max-width: 1300px;
+    max-width: 1280px;
     min-height: 720px;
     margin: 0 ;
   }
   nav{
-    width: 1300px;
+    width: 1280px;
   height: 180px;
    position: absolute;
   display: flex;
@@ -1050,17 +1050,17 @@ margin-left: 0;
       .picture{
       display: flex;
       flex-direction: column;
-      max-width: 1300px;
+      max-width: 1280px;
       }
       .firstpicture{
-      width: 1300px;
+      width: 1280px;
       height: 720px;
 
       }
       .secondpicture{
-      width: 1300px;
+      width: 1281px;
       height: 720px;
-      background-size: 1300px;
+      background-size: 1281px;
       left: 0;
       }
       .block{
@@ -1213,54 +1213,6 @@ margin-left: 0;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (max-width:1200px){
   .container{
     display: flex;
@@ -1312,16 +1264,16 @@ margin-left: 0;
       .picture{
       display: flex;
       flex-direction: column;
-      max-width: 1200px;
+      max-width: 1186px;
       }
       .firstpicture{
-      width: 1200px;
+      width: 1186px;
       height: 720px;
       }
       .secondpicture{
-      width: 1200px;
+      width: 1186px;
       height: 720px;
-      background-size: 1200px;
+      background-size: 1186px;
       left: 0;
       }
       .block{
@@ -2021,6 +1973,7 @@ margin-left: 0;
         display: flex;
         max-width:800px ;
        margin: 0 ;
+       
     }
     .main2{
       display: flex;
@@ -2124,6 +2077,273 @@ margin-left: 0;
 
 
 
+@media (max-width:600px){
+  .container{
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    min-height: 720px;
+    margin: 0 ;
+  }
+  nav{
+    width: 600px;
+  height: 180px;
+   position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  }
+  .hh{
+    display: flex;
+    align-items: center;
+   margin: 0;
+  }
+  h2{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+   nav ul {
+    display: flex;
+    flex-direction: row;
+   margin: 0;}
+  li{
+    display: flex;
+    flex-direction: row;
+    }
+    .tryfree{
+      display: flex;
+      margin-left:59;
+      }
+      .loginn{
+      margin-left: 0px;
+      }
+      .picture{
+      display: flex;
+      flex-direction: column;
+      max-width: 600px;
+      }
+      .firstpicture{
+      width: 600px;
+      height: 720px;
+      }
+      .secondpicture{
+      width: 350px;
+      height: 720px;
+      background-size: 350px;
+      left: 0;
+      }
+      .block{
+      display: flex;
+      flex-direction: column;
+      width: 600px;
+      height: 292px;
+      margin-top: 254px;
+      margin-left: 0;
+      }
+      .contacktus{
+      display: flex;
+      width: 90px;
+      height: 21px;
+      top: 0;
+      margin-left: 0;
+      font-size: 10px;
+      line-height: 18px;
+      }
+      h3{
+      display: flex;
+      color: #ffffff;
+      margin-bottom: 0;
+      height: 130px;
+      top: 291px;
+      font-size: 30px;
+      line-height: 45px;
+      margin-top: 16px;
+      }
+      .p2need{
+      color: #ffffff;
+      display: flex;
+      margin-top: 24px;
+      font-size: 20px;
+      line-height: 30px;
+      font-family: sans-serif;
+      }
+      .buttonone{
+      display: flex;
+      flex-direction: row;
+      }
+      .container2{
+        display: flex;
+        max-width:600px ;
+        flex-direction: column;
+       margin: 0 ;
+    }
+    .main2{
+      display: flex;
+      flex-direction: column;
+   margin: 0 auto;
+  }
+  .h4-one{
+    display: flex;
+    margin-top: 16px;
+     width: 280px;
+     height: 250px;
+     font-size: 40px;
+     line-height: 55px;
+   }
+   .main3{
+     display: flex;
+     flex-direction: column;
+
+
+     margin-top: 10px;
+
+
+     margin-left: 20px;
+     margin-bottom: 52px;
+     margin-right: 0px;
+   }
+
+  .container3{
+    display: flex;
+    flex-direction: column;
+    max-width:600px ;
+    min-height:840px;
+   margin: 0 ;
+  }
+  .container3p{
+    display: flex;
+    width:281px ;
+    background-color: #ffffff;  
+    margin-top: 240px;  
+    margin-left: 20px;
+  }
+  .container4{
+    display: flex;
+    flex-direction: column;
+    max-width:600px ;
+    min-height:600px;
+   margin: 0 ;
+  }
+  .container4p{
+    width:350px ;
+    height:342px; 
+    margin-top: 129px;  
+    margin-left: 65px;
+  }
+  .goodbay{
+    display: flex;
+    width: 130px;
+    height: 21px;
+    top: 0px;
+    font-size: 12px;
+    line-height: 15px;
+    font-family: sans-serif;
+  }
+  .hello-copper{
+    display: flex;
+    width: 380px;
+    font-size: 44px;
+  } 
+  
+  footer{
+    display: flex;
+    flex-direction: column;
+    max-width:600px ;
+    min-height:550px;
+   margin: 0 ;
+  }
+  .container5p{
+    margin: 0;
+  }
+  .contend{
+    display: flex;
+    flex-direction: column;
+    margin-top: 95px;
+    margin-left: 50px;
+    width:600px ;
+    }
+  .bottomfooter{
+    display: flex;
+    flex-direction: column;
+    margin-top:50px;
+    width: 600px;
+    min-height: 60px;
+    margin-left: 25px;
+    margin-bottom: 50px;
+  }
+  .bottomfooter h6{
+    line-height: 20px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2193,9 +2413,9 @@ margin-left: 0;
       height: 720px;
       }
       .secondpicture{
-      width: 500px;
+      width: 450px;
       height: 720px;
-      background-size: 500px;
+      background-size: 450px;
       left: 0;
       }
       .block{
@@ -2221,7 +2441,7 @@ margin-left: 0;
       margin-bottom: 0;
       height: 130px;
       top: 291px;
-      font-size: 33px;
+      font-size: 30px;
       line-height: 45px;
       margin-top: 16px;
       }
@@ -2253,13 +2473,17 @@ margin-left: 0;
     margin-top: 16px;
      width: 280px;
      height: 250px;
-     font-size: 44px;
+     font-size: 40px;
      line-height: 55px;
    }
    .main3{
      display: flex;
      flex-direction: column;
-     margin-top: 120px;
+
+
+     margin-top: 10px;
+
+
      margin-left: 20px;
      margin-bottom: 52px;
      margin-right: 0px;
