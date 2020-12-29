@@ -667,6 +667,7 @@ font-family: sans-serif;}
 }
 .footerp1{
 margin-left: 330px;
+
 }
 .footerp2{
 margin-left: 60px;
@@ -764,12 +765,12 @@ flex-direction: row;
   .container{
     display: flex;
     flex-direction: column;
-    max-width: 1400px;
+    max-width: 1320px;
     min-height: 720px;
     margin: 0 ;
   }
   nav{
-    width: 1400px;
+    width: 1320px;
   height: 180px;
    position: absolute;
   display: flex;
@@ -803,7 +804,7 @@ flex-direction: row;
     }
     .tryfree{
       display: flex;
-      margin-left:59;
+    margin: 0;
       }
       .loginn{
       margin-left: 0px;
@@ -811,14 +812,14 @@ flex-direction: row;
       .picture{
       display: flex;
       flex-direction: column;
-      max-width: 1400px;
+      max-width: 1320px;
       }
       .firstpicture{
-      width: 1400px;
+      width: 1320px;
       height: 720px;
       }
       .secondpicture{
-     width: 1400px;
+     width: 1320px;
       height: 720px;
       left: 0;
       }
