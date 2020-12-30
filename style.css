@@ -116,7 +116,7 @@ nav  img {
     .secondpicture{
     width: 720px;
     height: 720px;
-    background-color: lightblue;
+   background-color: lightblue;
     left: 720px;
     }
     .block{
@@ -134,9 +134,6 @@ nav  img {
     height: 20px;
     top: 254px;
     margin-left: 40px;
-    /*
-    font-family: 'Roboto', sans-serif;
-    font-family: 'Teko', sans-serif;*/
     font-family: 'Roboto Mono', monospace;
    /* font-style: normal;*/
     font-size: 13px;
@@ -1933,14 +1930,14 @@ margin-left: 0;
       .picture{
       display: flex;
       flex-direction: column;
-      max-width: 800px;
+      width: 800px;
       }
       .firstpicture{
-      width: 800px;
+     width: 800px;
       height: 720px;
       }
       .secondpicture{
-      width:800px;
+     width:800px;
       height: 720px;
       background-size: 758px;
       left: 0;
@@ -2140,7 +2137,7 @@ margin-left: 0;
       .picture{
       display: flex;
       flex-direction: column;
-      max-width: 600px;
+      width: 600px;
       }
       .firstpicture{
       width: 600px;
@@ -2295,81 +2292,6 @@ margin-left: 0;
     line-height: 20px;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (max-width:500px){
   .container{
     display: flex;
@@ -2421,7 +2343,7 @@ margin-left: 0;
       .picture{
       display: flex;
       flex-direction: column;
-      max-width: 500px;
+    width: 500px;
       }
       .firstpicture{
       width: 500px;
