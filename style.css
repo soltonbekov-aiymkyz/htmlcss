@@ -688,98 +688,16 @@ margin-left: 60px;
 
 
 
-
-
-
-/*
-.footer1p{
-  margin-left: 40px;
-}
-.footer2p{
-  margin-right: 40px;
-}
-.footer3p{
-  margin-right: 40px;
-}*/
-/*
-@media  ( max-width:700px){
-  .container{
-    display: flex;
-    flex-direction: column;
-  }
-  .firstpicture{
-    width: 680px;
-    background-color: #321e41;
-    }
-    .secondpicture{
-      width: 600px;
-       margin: 0;
-      }
-    .block{
-      display: flex;
-      flex-direction: column;
-      width: 529px;
-      height: 292px;
-      margin-top: 254px;
-      margin-left: 0;
-      }
-      nav{
-        width: 680px;
-      height: 150px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    margin: 0;
-  }
-  
-nav h1{
-  display: flex;
-  align-items: start;
-  margin: 0;
-}
-  nav h2{
-       display: flex;
-       align-items: center;
-     margin: 0;
-  }
-  nav ul {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-  margin-top: 0 ;
-    margin-bottom: 0;
-    margin-left:  0;
-  padding: 0 ;}
-li{
-  display: flex;
-  flex-direction: column;
-  margin-left: 20px;
-}
-.tryfree{
-display: flex;
-flex-direction: row;
-  justify-content: center;
-  margin: 0 auto;
-} 
-.loginn{
-  display: flex;
-  align-items: center;
-  margin-left: 20px;
-}
-}*/
-
-
-
 @media (max-width:1400px){
   .container{
     display: flex;
     flex-direction: column;
-    max-width: 1320px;
+    width: 1400px;
     min-height: 720px;
     margin: 0 ;
   }
   nav{
-    width: 1320px;
+    width: 1400px;
   height: 180px;
    position: absolute;
   display: flex;
