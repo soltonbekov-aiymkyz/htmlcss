@@ -1164,6 +1164,7 @@ margin-left: 60px;
               min-height:840px;
              margin: 0 ;
             }
+            /*
             .container4{
               display: flex;
               flex-direction: column;
@@ -1225,11 +1226,64 @@ margin-left: 60px;
               font-size: 14px;
                line-height: 14px;
             }
+*/
 
 
+.container4{
+  display: flex;
+  max-width:100% ;
+ margin: 0 ;
+}
+.container4p{
+  width:392px ;
+  height:342px;
+  margin-left: 1px;
 
-
-
+}
+.goodbay{
+  margin-left: 2px;
+}
+.hello-copper{
+  display: flex;
+  width: 300px;
+  height: 65px;
+  left: 0px;
+  margin-top: 16px;
+  margin-bottom: 0;
+  font-size: 44px;
+  line-height: 55px;
+  font-weight: 400;
+}
+.psection4{
+  display: flex;
+  width: 392px;
+  height: 60px;
+  font-size: 16px;
+  line-height: 20px;
+}
+.request-demo{
+  background-color: #ff3465;
+  border: 1px solid #ff3465;
+  border-radius: 100px;
+  width: 100px;
+  height: 40px;
+  margin-top: 48px;
+  margin-right: 10px;
+  font-size: 14px;
+   line-height: 14px;
+   color: #ffffff;
+}
+.try-free{
+  background-color: #56468f;
+  border: 1px solid #ff3465;
+  border-radius: 100px;
+  width: 80px;
+  height: 40px;
+  top: 431px;
+  color: #ff3465;
+  font-size: 14px;
+   line-height: 14px;
+}
 
 
             footer{
